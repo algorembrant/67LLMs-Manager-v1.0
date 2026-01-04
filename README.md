@@ -2,9 +2,12 @@
 
 A web application that allows you to organize and access multiple AI LLM platforms in one interface. Built with React, Vite, and Tailwind CSS.
 
+
+https://github.com/user-attachments/assets/67bbcd4d-7d88-404c-ab81-67672e1c81d9
+
 ## Features
 
-- 🎯 **65+ AI Platforms**: Access ChatGPT, Claude, Gemini, Perplexity, and 60+ more AI platforms
+- 🎯 **65+ AI Platforms**: Access ChatGPT, Claude, Gemini, Perplexity, and 58+ more AI platforms
 - 🎨 **Clean UI**: Simple, gradient-free design inspired by Claude.ai
 - 🖱️ **Drag & Drop**: Intuitive drag-and-drop interface to organize your LLMs
 - 📊 **Multi-Column Layout**: View multiple AI platforms side-by-side
